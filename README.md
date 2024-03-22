@@ -7,8 +7,6 @@ This repository contains an implementation of a neural network for classificatio
 
 > Features
 
-> Installation
-
 > Usage
 
 > License
@@ -29,7 +27,7 @@ In this project, we have implemented a neural network from scratch using Python 
 
 5. Evaluation metrics such as accuracy.
 
-### Intallation
+### Usage
 
 To use the neural network implementation, you can follow these steps:
 
@@ -40,7 +38,8 @@ git clone https://github.com/Nguinabe3/Neural_Network_From_Scratch.git
 
 3. Run the Neural_Network.py file
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+   
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the LICENSE file for details.
 
-#################################### NGUINABE JOSUE #####################################
+############################## NGUINABE JOSUE ##############################
 
